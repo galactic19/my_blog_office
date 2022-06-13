@@ -22,4 +22,4 @@ services:
       - POSTGRES_PASSWORD=my_blog_django_db_password
       - POSTGRES_DB=my_blog_django_dev
 volumes:
-  postgres_data:
+  postgres_data: 
